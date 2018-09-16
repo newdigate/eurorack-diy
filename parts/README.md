@@ -1,4 +1,4 @@
-# todo
+# parts
 
 <table>
 <tr>
@@ -10,7 +10,20 @@
  <tr>
  <td>
  
-   [Panasonic EVU-F2MFL3D14 ](https://octopart.com/evu-f2mfl3d14-panasonic-39595543?r=sp&s=xV7VNI5JR6W7B-j7famTyw#ecad "octopart")
+<img src="pots/EVU-F2MFL3D14/EVUF2MFL3D14.png" width="100px">
+
  </td>
+ 
  </tr>
+ 
+ <tr>
+ <td>
+  
+[EVU-F2MFL3D14](pots/EVU-F2MFL3D14/EVU-F2MFL3D14 "Panasonic square 9mm EVU-F2MFL3D14")
+
+ </td>
+ 
+ </tr>
+ 
+ 
  </table>
