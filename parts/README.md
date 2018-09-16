@@ -19,7 +19,7 @@
  <tr>
  <td>
   
-[EVU-F2MFL3D14](pots/EVU-F2MFL3D14/EVU-F2MFL3D14 "Panasonic square 9mm EVU-F2MFL3D14")
+[EVU-F2MFL3D14](pots/EVU-F2MFL3D14/EVU-F2MFL3D14/ "Panasonic square 9mm EVU-F2MFL3D14")
 
  </td>
  
