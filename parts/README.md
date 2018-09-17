@@ -19,6 +19,10 @@
  <img src="pots/EVU-F2MFL3D14/Footprint2.png" height="100px">
  </td>
  
+ <td>
+ <img src="pots/EVU-F2MFL3D14/symbol.png" height="100px">
+ </td>
+ 
  </tr>
 
  
