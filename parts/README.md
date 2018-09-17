@@ -20,7 +20,7 @@
  </td>
  
  <td>
- <img src="pots/EVU-F2MFL3D14/symbol.png" height="100px">
+ <img src="pots/EVU-F2MFL3D14/Symbol.png" height="100px">
  </td>
  
  </tr>
