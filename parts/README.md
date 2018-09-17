@@ -27,3 +27,8 @@
  
  
  </table>
+
+# todo
+* jack connectors
+  * Amphenol ACJS-MV35-5
+  * Amphenol ACJS-MVS-2S 
