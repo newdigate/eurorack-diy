@@ -3,15 +3,22 @@
 <table>
 <tr>
 <td>
+ 
+[EVU-F2MFL3D14](pots/EVU-F2MFL3D14/ "Panasonic square 9mm EVU-F2MFL3D14")
  9mm rotary vertical pot
  </td>
+ <td>
+ </td>
  </tr>
   
  <tr>
  <td>
  
-<img src="pots/EVU-F2MFL3D14/EVUF2MFL3D14.png" width="100px">
+<img src="pots/EVU-F2MFL3D14/EVUF2MFL3D14.png" height="100px">
 
+ </td>
+ <td>
+ <img src="pots/EVU-F2MFL3D14/Footprint2.png" height="100px">
  </td>
  
  </tr>
@@ -19,8 +26,10 @@
  <tr>
  <td>
   
-[EVU-F2MFL3D14](pots/EVU-F2MFL3D14/ "Panasonic square 9mm EVU-F2MFL3D14")
 
+
+ </td>
+ <td>
  </td>
  
  </tr>
