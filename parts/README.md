@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td colspan="2">
+<td colspan="3">
  
 [EVU-F2MFL3D14](pots/EVU-F2MFL3D14/ "Panasonic square 9mm EVU-F2MFL3D14")
  9mm rotary vertical pot
